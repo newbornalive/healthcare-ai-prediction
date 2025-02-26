@@ -1,1 +1,9 @@
 
+Final Results:
+
+    Tableau prediction（ETS）：MAPE = 18%，RMSE = 35
+    Python ARIMA prediction：MAPE = 15%，RMSE = 30
+    Python XGBoost prediction：MAPE = 12%，RMSE = 28
+
+📌 Python prediction is 20% less than Tableau prediction，Python performs the best.
+
