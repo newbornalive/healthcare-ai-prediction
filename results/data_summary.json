@@ -1,0 +1,13 @@
+{
+  "records": 253680,
+  "features": 21,
+  "outcome_prevalence": 0.13933301797540207,
+  "missing_values": 0,
+  "duplicate_rows": 24206,
+  "split_sizes": {
+    "train": 152208,
+    "validation": 25368,
+    "calibration": 38052,
+    "test": 38052
+  }
+}

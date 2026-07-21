@@ -1,0 +1,38 @@
+{
+  "best_model_by_pr_auc": "XGBoost",
+  "selected_thresholds": {
+    "Logistic Regression": 0.12,
+    "Random Forest": 0.13,
+    "XGBoost": 0.14,
+    "1D CNN": 0.09999999999999999
+  },
+  "target_sensitivity": 0.8,
+  "feature_order": [
+    "HighBP",
+    "HighChol",
+    "CholCheck",
+    "BMI",
+    "Smoker",
+    "Stroke",
+    "HeartDiseaseorAttack",
+    "PhysActivity",
+    "Fruits",
+    "Veggies",
+    "HvyAlcoholConsump",
+    "AnyHealthcare",
+    "NoDocbcCost",
+    "GenHlth",
+    "MentHlth",
+    "PhysHlth",
+    "DiffWalk",
+    "Sex",
+    "Age",
+    "Education",
+    "Income"
+  ],
+  "cnn_best_epoch": 4,
+  "cnn_training_records": 40000,
+  "cnn_validation_records": 10000,
+  "device_used_for_cnn_training": "cpu",
+  "runtime_seconds": 26.85
+}
