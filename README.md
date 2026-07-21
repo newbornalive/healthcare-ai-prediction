@@ -1,4 +1,4 @@
-# Healthcare AI Prediction 
+# Diabetes Risk Prediction with Machine Learning and Deep Learning
 ## Project Overview 
 This project focuses on AI-driven medical diagnosis using ML models. 
 ## Techniques Used 
